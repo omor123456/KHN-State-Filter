@@ -1,6 +1,6 @@
 # KHN State-Variable Filter PCB
 
-Analog filter simulation and PCB design using LTspice and Altium Designer.
+Analog filter simulation and PCB design using LTspice and Altium Designer
 
 ---
 
@@ -14,13 +14,13 @@ The filter provides three simultaneous outputs:
 • Band-Pass (BPF)  
 • Low-Pass (LPF)
 
-The project covers the workflow from circuit simulation and frequency-response analysis to schematic capture and PCB layout.
+The project covers the workflow from circuit simulation and frequency-response analysis to schematic capture and PCB layout
 
 ---
 
 ### Applications
 
-State-variable filters can be used when different frequency components of a signal need to be isolated or analyzed.
+State-variable filters can be used when different frequency components of a signal need to be isolated or analyzed
 
 Common applications include:
 
@@ -63,6 +63,7 @@ The PCB design process included:
 Altium Schematic
 
 ![Altium Schematic](altium-schematic.png)
+<img width="634" height="490" alt="image" src="https://github.com/user-attachments/assets/6d35037c-5841-4c08-b23b-90c156bc4696" />
 
 PCB Layout
 
