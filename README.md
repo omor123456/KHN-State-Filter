@@ -6,7 +6,7 @@ Analog filter simulation and PCB design using LTspice and Altium Designer
 
 ### Overview
 
-Designed and simulated a Kerwin-Huelsman-Newcomb (KHN) state-variable filter and translated the circuit into a complete PCB design.
+Designed and simulated a Kerwin-Huelsman-Newcomb (KHN) state-variable filter and translated the circuit into a complete PCB design
 
 The filter provides three simultaneous outputs:
 
@@ -62,15 +62,13 @@ The PCB design process included:
 
 Altium Schematic
 
-![Altium Schematic]
+
 
 <img width="1754" height="878" alt="image" src="https://github.com/user-attachments/assets/82d0ce78-d056-4213-b4c1-9d82124c342d" />
 
 
 
 PCB Layout
-
-![PCB Layout]
 
 
 <img width="1662" height="1196" alt="image" src="https://github.com/user-attachments/assets/f159937c-d130-4af6-bc11-6dd67efb99bf" />
