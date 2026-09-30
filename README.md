@@ -73,6 +73,9 @@ PCB Layout
 
 <img width="1662" height="1196" alt="image" src="https://github.com/user-attachments/assets/f159937c-d130-4af6-bc11-6dd67efb99bf" />
 
+PCB Layout board design (3D)
+
+<img width="532" height="532" alt="image" src="https://github.com/user-attachments/assets/b9b46e43-aafb-44fd-aa93-a7eb52ed9c13" />
 
 ---
 
@@ -157,7 +160,7 @@ The objective was to take an analog filter from circuit simulation through PCB i
 ### Future Work
 
 • Fabricate and assemble the PCB  
-• Measure the HPF, BPF, and LPF responses  
+• Measure the HPF, BPF, and LPF responses with an oscilloscope
 • Compare measured results with LTspice simulation  
 • Investigate component tolerance effects  
 • Add test points for the filter outputs
